@@ -1,0 +1,634 @@
+[
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_vehicle.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_add_vehicle.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_delete_user.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_delete_user.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vehicles.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_vehicles.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_rights.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_admin_rights.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_by_location.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_search_by_location.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_getter.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_feed_getter.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\b4dcb43e613d51dfcf7325f2c39d7000736db8d2\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_splash.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_main_splash.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab3_frag.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\tab3_frag.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\b4dcb43e613d51dfcf7325f2c39d7000736db8d2\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\c5dd1823ad78ec6dc2bf949771d6ea950de582f3\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\c5dd1823ad78ec6dc2bf949771d6ea950de582f3\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_splash.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_main_splash.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_by_location.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_search_by_location.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_by_bus.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_search_by_bus.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_search.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_select_search.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_vehicle.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_add_vehicle.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1_frag.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\tab1_frag.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2_frag.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\tab2_frag.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_search.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_select_search.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\b4dcb43e613d51dfcf7325f2c39d7000736db8d2\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\c5dd1823ad78ec6dc2bf949771d6ea950de582f3\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_delete_user.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_delete_user.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_by_bus.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_search_by_bus.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1_frag.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\tab1_frag.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_display.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_user_display.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_post.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\b4dcb43e613d51dfcf7325f2c39d7000736db8d2\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_post.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\c5dd1823ad78ec6dc2bf949771d6ea950de582f3\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_access_users.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_access_users.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_display.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_user_display.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2_frag.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\tab2_frag.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab3_frag.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\tab3_frag.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_getter.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_feed_getter.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_rights.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_admin_rights.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\5c8e72edfcd65b93128c103d0cd72886eaa96044\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vehicles.xml",
+        "source": "E:\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_vehicles.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_access_users.xml",
+        "source": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\src\\main\\res\\layout\\activity_access_users.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\b4dcb43e613d51dfcf7325f2c39d7000736db8d2\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\c5dd1823ad78ec6dc2bf949771d6ea950de582f3\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Emaan\\.android\\build-cache\\2b62a5ef06d6276a552bcc15478eaa8007ccce67\\output\\res\\layout\\design_navigation_item.xml"
+    }
+]

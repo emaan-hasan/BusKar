@@ -1,0 +1,4 @@
+#Mon Mar 19 23:50:36 PKT 2018
+base.0=E\:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.buskar.emaan.buskar.adminActivity">
+
+    <Button
+        android:id="@+id/buttonAddBus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Bus"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="55dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <Button
+        android:id="@+id/buttonAccessUsers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Users"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="30dp"
+        app:layout_constraintTop_toBottomOf="@+id/buttonAddBus" />
+
+    <Button
+        android:id="@+id/buttonAccessBuses"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Buses "
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="29dp"
+        app:layout_constraintTop_toBottomOf="@+id/buttonAccessUsers"
+        app:layout_constraintHorizontal_bias="0.501" />
+
+</android.support.constraint.ConstraintLayout>

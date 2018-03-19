@@ -1,0 +1,240 @@
+[
+    {
+        "outputFile": "E:\\Ghosts of semester past\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 156,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 156,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 134,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\ed2e9364dac36892a99fb5ad815002d761c55247\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 134,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 65,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 60,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 60,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 65,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 65,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 66,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 66,
+                        "endOffset": 310
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Project\\BusKar\\BusKar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 156,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 156,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 134,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\e9636caa433fd56ae75e570a236af9c0678ae52b\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 134,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 65,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 60,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 60,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 65,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 65,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 66,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Emaan\\.android\\build-cache\\bb462092d77d405acdff0e325cbc7bfddec72728\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 66,
+                        "endOffset": 310
+                    }
+                }
+            }
+        ]
+    }
+]

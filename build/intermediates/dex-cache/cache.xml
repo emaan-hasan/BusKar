@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\320d5e4a611ad54941e53a47240f9e85857fefa5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a4f81a342ac6bace97ad1420eb47fc11ab749a03">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_cd6eff6775d8411782192405e149f30e4a43c1ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\3ca8bb1bb494b6d6a81946c5d83e3c05e4dceb49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_b9d4f4e2d0cb9b9f24d05112496f5c866cbef0cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_c504c18bc7a31e3df485f102a80eb1675f24724c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\dabcbaf2d3a755f3a5d9f15bda6d8a1865490e4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_bf115c79249d86cc6dc02a4d73b402358effcc0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\1f638e8b11ba54343bcd046fefc64099a7165837\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_3f74ed4ab60a9e9d435f8f396d1601caf985b60a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\9d4af05536706375df4ff9aa5d4db32e5fee8f2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_7d97a6b74136b8950a4e1f3b5c78ec0eaf0e3479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\ed2e9364dac36892a99fb5ad815002d761c55247\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_9ce3c244d27c6dab65e11a93f6b53444d0df1cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\common-1.1.0_1a847f8faf811271c3ad1c00fa2a32d0dae933de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.0\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\support-annotations-27.1.0_ae2a3412acb0a08226bdde5bdd1776934332f9c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\cc3046075954db8061eed5dda94eb073b647804a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_f9db87b01552ba15a55922df6558738d7e577861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\5f03f39f1d224e39e64f820b05f92c88fbb37763\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="858c1e21a2570a2416153aecab70d27a11965e79">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_83b037c88fbbaa309dfea66132daad1475e05d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\1c8c1d1d9e28b256506c8489ebe3ad510b5c25c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_01089e239ab0300a652152b7713fdae099f2b855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\8759e768ffca82b7ebc9aa7ff126dd2bb69a2157\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_bc07a713554f4c6a7e81cd6453ecde24f36e637f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\c5dd1823ad78ec6dc2bf949771d6ea950de582f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_0fd822bc811d517dfa893ac29bd805203ad60d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\common-1.1.0_d1de24aaa4ddf2e902734effcfc9d206021ab0bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\e218e083a4caaa8eb2c69e1fd148f7d60196234e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_1a961c935bb0504a6f9a3be9ac55eecd90bd950e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\5c8e72edfcd65b93128c103d0cd72886eaa96044\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f7e3ff2cb093a99c8dc1ff3d50c176019fa5d7c1">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_b8b1b29bcb1f59da3739171a7ab0dfebf984d4bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Emaan\.android\build-cache\0f4414aee4c9d72eb8eb86e0a58d3d4589b016a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="E:\Ghosts of semester past\Project\BusKar\BusKar\app\build\intermediates\pre-dexed\debug\classes_dc4cd72f494a20c930bde83d17cba265b1609e34.jar" />
+    </item>
+
+</items>

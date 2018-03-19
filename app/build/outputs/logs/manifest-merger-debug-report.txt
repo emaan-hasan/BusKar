@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:10:5-44:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Emaan\.android\build-cache\e0ac13e352017f0b489cd0de031e5b05ac71b326\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.buskar.emaan.buskar.MainActivity_splash
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:17:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.buskar.emaan.buskar.LoginActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:24:9-26:60
+	android:label
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:26:13-57
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:25:13-42
+activity#com.buskar.emaan.buskar.SignUpActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:27:9-52
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:27:19-49
+activity#com.buskar.emaan.buskar.selectSearchActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:28:19-55
+activity#com.buskar.emaan.buskar.searchByBusActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:29:9-57
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:29:19-54
+activity#com.buskar.emaan.buskar.VehiclesActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:30:19-51
+activity#com.buskar.emaan.buskar.addVehicleActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:31:9-56
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:31:19-53
+activity#com.buskar.emaan.buskar.adminActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:32:9-51
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:32:19-48
+activity#com.buskar.emaan.buskar.searchByLocationActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:33:9-62
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:33:19-59
+activity#com.buskar.emaan.buskar.AdminRightsActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:34:9-57
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:34:19-54
+activity#com.buskar.emaan.buskar.deleteUserActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:35:9-56
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:35:19-53
+activity#com.buskar.emaan.buskar.HomeActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:36:9-39:59
+	android:label
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:38:13-56
+	android:theme
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:37:13-41
+activity#com.buskar.emaan.buskar.addPostActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:40:9-53
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:40:19-50
+activity#com.buskar.emaan.buskar.feedGetterActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:41:9-56
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:41:19-53
+activity#com.buskar.emaan.buskar.accessUsersActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:42:9-57
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:42:19-54
+activity#com.buskar.emaan.buskar.userDisplayActivity
+ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:43:9-66
+	android:name
+		ADDED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml:43:19-54
+uses-sdk
+INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Emaan\.android\build-cache\e0ac13e352017f0b489cd0de031e5b05ac71b326\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\Emaan\.android\build-cache\5c8e72edfcd65b93128c103d0cd72886eaa96044\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Emaan\.android\build-cache\38e07fd15c073f0d80377635a5267708947f5678\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Emaan\.android\build-cache\e7d34b1f0508b4fff8f879b1a108a203d49b18d7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Emaan\.android\build-cache\ed2e9364dac36892a99fb5ad815002d761c55247\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Emaan\.android\build-cache\8759e768ffca82b7ebc9aa7ff126dd2bb69a2157\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Emaan\.android\build-cache\e218e083a4caaa8eb2c69e1fd148f7d60196234e\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Emaan\.android\build-cache\9d4af05536706375df4ff9aa5d4db32e5fee8f2c\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Emaan\.android\build-cache\cc3046075954db8061eed5dda94eb073b647804a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Emaan\.android\build-cache\1f638e8b11ba54343bcd046fefc64099a7165837\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Emaan\.android\build-cache\3ca8bb1bb494b6d6a81946c5d83e3c05e4dceb49\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Emaan\.android\build-cache\5f03f39f1d224e39e64f820b05f92c88fbb37763\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Emaan\.android\build-cache\0f4414aee4c9d72eb8eb86e0a58d3d4589b016a3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Emaan\.android\build-cache\1c8c1d1d9e28b256506c8489ebe3ad510b5c25c3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Emaan\.android\build-cache\320d5e4a611ad54941e53a47240f9e85857fefa5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Emaan\.android\build-cache\c5dd1823ad78ec6dc2bf949771d6ea950de582f3\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Emaan\.android\build-cache\dabcbaf2d3a755f3a5d9f15bda6d8a1865490e4a\output\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ghosts of semester past\Project\BusKar\BusKar\app\src\main\AndroidManifest.xml
